@@ -1,4 +1,13 @@
-# Bootstrap w/ Vite
+# Clean Joke
+## v1.0.0
+### Bootstrap w/ Vite
+---
+
+### Description
+---
+
+Starter Project for using Bootstrap with Vite.
+
 
 Include [Bootstrap](https://getbootstrap.com)'s source Sass and individual JavaScript plugins with [Vite](https://vitejs.dev/).
 
@@ -14,3 +23,7 @@ cd examples/vite/
 npm install
 npm start
 ```
+
+### History
+---
+ - 20230319 | v1.0.0 - Project Init
